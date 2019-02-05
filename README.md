@@ -7,8 +7,8 @@ It works, mostly...
 #### Install
 
 > pip install SpeechRecognition      
-> git clone https://www.github.com/qazwx/transcriber.git
-> cd transcriber      
+> git clone https://www.github.com/qazwx/transcriber.git       
+> cd transcriber        
 > chmod u+x transcriber.py      
 
 #### Use
